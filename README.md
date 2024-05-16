@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Aki!<br>🔭 I’m currently working on a Django Project<br>🌱 I’m currently learning Python<br>⚡ I'm a big fan of Game Development 
+Hello I'm Aki!<br>🔭 I’m currently working on a CV Portfolio<br>🌱 I’m currently learning React<br>⚡ I'm a big fan of Game Development 
 
 
 ## 🌐 Socials:
