@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Aki!<br>🔭 I’m currently working on a Web Game Project<br>🌱 I’m currently learning React<br>⚡ I'm a big fan of Game Development 
+Hello I'm Aki!<br>🔭 I’m currently working on a Thesis<br>🌱 I’m currently learning React<br>⚡ I'm a big fan of Game Development 
 
 
 ## 🌐 Socials:
