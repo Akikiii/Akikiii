@@ -1,10 +1,9 @@
-## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Anup](https://anuphaldar.com/), Good to see you here!**
+## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Raqui](https://jrrjose.vercel.app/), Good to see you here!**
 
 ## About Me 🙂
-- *A passionate **Software developer** who writes interesting **bugs***
-- ***Open-source** enthusiast*
-- *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
+- *- Innovative **Web Developer** focused on building clean, user-friendly experiences*
+- *Passionate about **continuous** learning and modern web technologies*
+- ***Learning** by doing, breaking, and fixing*
 
 <!-- - *Specializes in **front-end development*** -->
 
