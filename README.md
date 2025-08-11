@@ -1,7 +1,7 @@
 ### Hi there, I'm [Raqui Jose](https://jrrjose.vercel.app) 👋
 
 ## About Me 🙂
-- ***Web Developer** with a curious mind and a messy code editor**
+- ***Web Developer** with a curious mind and a messy code editor*
 - *Learning by doing, breaking, and fixing*
 - *Exploring new tools, frameworks, and the occasional rabbit hole*
 
