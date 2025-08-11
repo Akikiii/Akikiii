@@ -4,7 +4,6 @@
 - ***Web Developer** with a curious mind and a messy code editor**
 - *Learning by doing, breaking, and fixing*
 - *Exploring new tools, frameworks, and the occasional rabbit hole*
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
 
 ## Skills:
 
