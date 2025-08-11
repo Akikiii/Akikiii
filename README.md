@@ -1,7 +1,7 @@
 ## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Raqui](https://jrrjose.vercel.app/), Good to see you here!**
 
 ## About Me 🙂
-- *- Innovative **Web Developer** focused on building clean, user-friendly experiences*
+- *Innovative **Web Developer** focused on building clean, user-friendly experiences*
 - *Passionate about **continuous** learning and modern web technologies*
 - ***Learning** by doing, breaking, and fixing*
 
@@ -12,7 +12,7 @@
 ---
 <h2 align="center">Statistics 📈 </h2>
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anup's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akikiii&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anup's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akikiii&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" /> -->
@@ -20,7 +20,7 @@
 ---
 <h2 align="center">Contribution Graph 📊</h2>
 
-[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haldaranup&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
+[![Akikiii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akikiii&theme=chartreuse-dark)](https://github.com/Akikiii/github-readme-activity-graph)
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=haldaranup&theme=chartreuse-dark" />  -->
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haldaranup&theme=chartreuse-dark" />   -->
 
